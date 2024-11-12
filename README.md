@@ -20,5 +20,5 @@ When I'm not coding, I love to spend time exploring the world:
 Feel free to check out my contacts linked below, and I hope you enjoy browsing my projects!
 
 ## 📫 Connect with Me:
-- Email: zhiwang224@gmail.com
-- LinkedIn: linkedin.com/in/zhiwang24
+- Email: [zhiwang224@gmail.com](mailto:zhiwang224@gmail.com)
+- LinkedIn: [linkedin.com/in/zhiwang24](https://www.linkedin.com/in/zhiwang24/)
